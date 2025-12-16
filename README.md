@@ -3,9 +3,9 @@
 Analisis Pengaruh Curah Hujan dan Inflasi terhadap Harga Bahan Pokok di Pulau Jawa Tahun 2024
 
 Kelompok 15
-Shafa Fatimah Az Zahra (1314623062)
-Yanaka Sofia Pardede (24031554065)
-Putri Sofiyatus Salwa (24031554112)
+1. Shafa Fatimah Az Zahra (1314623062)
+2. Yanaka Sofia Pardede (24031554065)
+3. Putri Sofiyatus Salwa (24031554112)
 
 Repositori ini berisi proyek Data Wrangling dan Exploratory Data Analysis (EDA) untuk menganalisis hubungan antara curah hujan, inflasi, dan harga bahan pokok di enam provinsi Pulau Jawa sepanjang tahun 2024.
 Proyek ini berfokus pada pembersihan data, standarisasi format antarprovinsi, integrasi, agregasi, transformasi, dan EDA.
